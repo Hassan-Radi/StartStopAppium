@@ -18,7 +18,7 @@ import java.io.InputStreamReader;
 
 /**
  * A simple code example on how to start/stop the Appium server programmatically
- * using Java. For a complete guide please refer to
+ * using Java. For a complete guide please refer to https://www.linkedin.com/pulse/startstop-appium-server-programmatically-using-java-hassan-radi
  *
  * @author Hassan Radi
  */
